@@ -2,6 +2,8 @@ a = "A4-Verde-Comercial Trifásica 220/127"
 b = "A4-Verde-Rural Bifásica 380/220"
 c = "B3-Industrial Monofásica 220"
 
+print(list(c))
+
 print(c[-1])
 
 a = a.split(' ')
